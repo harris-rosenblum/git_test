@@ -1,1 +1,2 @@
 hello world, this is my first odin project lesson on git and git hub
+making changes on a new laptop
